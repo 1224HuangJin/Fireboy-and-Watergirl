@@ -29,7 +29,7 @@ Click the links below to play **Games A to F** directly in your browser:
 
 点击下方链接，并选择关卡即可在浏览器中直接畅玩 **森林冰火人 1-6 代全系列**：
 
-*   🔥 🌍 **[Play Game / 开始游戏](https://1224HuangJin.github.io/fireboy-and-watergirl/)**
+*   🔥 🌍 **[Play Game / 开始游戏](https://1224HuangJin.github.io/Fireboy-and-Watergirl/)**
 
 ---
 
