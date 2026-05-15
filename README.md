@@ -5,6 +5,7 @@ This repository is an upgraded, batch-processing version of the original H5 game
 本仓库是基于原版 H5 游戏抓取脚本的**批量升级版**。它不仅支持一键抓取全系列素材，还通过 GitHub Pages 提供了**全系列直接在线游玩**的无缝体验！
 
 > [!warning]
+> 
 > **⚠️ DISCLAIMER / 免责声明:** 
 > This project is for nonprofit testing and educational purposes only.
 > 本项目仅供非营利性学习与研究使用。
