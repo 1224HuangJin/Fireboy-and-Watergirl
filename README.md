@@ -2,17 +2,23 @@
 # 森林冰火人全系列批量抓取与在线游玩
 
 This repository is an upgraded, batch-processing version of the original H5 game grabber. It enables you to download the game assets completely offline, and also provides direct online play via GitHub Pages!
+
 本仓库是基于原版 H5 游戏抓取脚本的**批量升级版**。它不仅支持一键抓取全系列素材，还通过 GitHub Pages 提供了**全系列直接在线游玩**的无缝体验！
 
 > [!warning]
 > 
 > **⚠️ DISCLAIMER / 免责声明:** 
+>
 > This project is for nonprofit testing and educational purposes only.
+>
 > 本项目仅供非营利性学习与研究使用。
+>
 > ---
 > The content in this repository, including but not limited to: optimized versions of `.py` files, are all upgraded by AI.
+>
 > 本存储库内的内容，包括但不限于：`.py` 文件的优化版，皆由AI升级。
 >
+> 
 > 并且，**本存储库以MIT 开源协议发布** | And, **This repository is released under the MIT open source license**
 
 ---
@@ -20,6 +26,7 @@ This repository is an upgraded, batch-processing version of the original H5 game
 ## ⚡ Direct Play Links / 在线直接游玩地址
 
 Click the links below to play **Games A to F** directly in your browser:
+
 点击下方链接，并选择关卡即可在浏览器中直接畅玩 **森林冰火人 1-6 代全系列**：
 
 *   🔥 🌍 **[Play Game / 开始游戏](https://1224HuangJin.github.io/fireboy-and-watergirl/)**
@@ -29,6 +36,7 @@ Click the links below to play **Games A to F** directly in your browser:
 ## 📦 What's in this Repository? / 仓库里有什么？
 
 This repository contains both the automation tools and the complete offline game clients:
+
 本仓库既包含自动化抓取工具，也包含已经抓取完成、解包成功的全系列游戏成品：
 
 1.  **`output/` (The Game Clients / 游戏成品):** 
